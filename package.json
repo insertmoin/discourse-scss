@@ -1,0 +1,23 @@
+{
+  "name": "im-discourse-scss",
+  "version": "0.1.0",
+  "description": "SCSS structure for discourse",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/insertmoin/discourse-scss.git"
+  },
+  "keywords": [
+    "discourse",
+    "scss"
+  ],
+  "author": "Stefan Schulte-Ortbeck",
+  "email": "stefan@insertmoin.de",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insertmoin/discourse-scss/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
